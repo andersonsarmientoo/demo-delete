@@ -37,3 +37,12 @@ According to (Quisbert & Ramirez, 2011):
 |Original Research | Routine Research|
 |Works with original problems and\or approaches|Known and studied problems with known procedures                 |
 |New problems are posed|                          |
+
+|    Common sense            |    
+|-----------------------------------------------------------------------------------------------------------------------|  
+|Concepts and conceptual schemes of practical use, which can be misleading.|          
+|Simple observation and repetition of acts in a similar and successive manner. |   
+
+  `PRACTICAL KNOWLEDGE THAT DEVELOPS IN THE COMMON PEOPLE`                                                                                                                                         
+																														         
+==PRAGMATIC: Synonymous with practical, funtional, materialistic, etc.==
