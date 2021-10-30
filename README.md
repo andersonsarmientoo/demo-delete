@@ -48,3 +48,4 @@ According to (Quisbert & Ramirez, 2011):
 == PRAGMATIC: Synonymous with practical, funtional, materialistic, etc. ==
 
 $\sum_{x = a}^{b} f(x)$
+$x^{n}$
