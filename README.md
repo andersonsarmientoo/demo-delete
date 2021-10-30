@@ -45,4 +45,6 @@ According to (Quisbert & Ramirez, 2011):
 
   `PRACTICAL KNOWLEDGE THAT DEVELOPS IN THE COMMON PEOPLE`                                                                                                                                         
 																														         
-==PRAGMATIC: Synonymous with practical, funtional, materialistic, etc.==
+== PRAGMATIC: Synonymous with practical, funtional, materialistic, etc. ==
+
+$\sum_{x = a}^{b} f(x)$
